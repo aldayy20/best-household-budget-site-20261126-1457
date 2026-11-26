@@ -1,4 +1,10 @@
+[![make.fun · best-household-budget-site-20261126-1457](https://make.fun/badge/best-household-budget-site-20261126-1457.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+[![rank](https://make.fun/badge/best-household-budget-site-20261126-1457/aldayy20/best-household-budget-site-20261126-1457/rank.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+[![reward](https://make.fun/badge/best-household-budget-site-20261126-1457/aldayy20/best-household-budget-site-20261126-1457/reward.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+
 # DompetKeluarga — Anggaran Keluarga Mahendra
+
+Entry for the [make.fun bounty "Make the best household budget site"](https://make.fun/bounty/best-household-budget-site-20261126-1457) ($50 in USDC).
 
 DompetKeluarga adalah situs anggaran rumah tangga yang berjalan sepenuhnya
 luring dari berkas statis. Dibuat untuk Keluarga Mahendra di Jakarta: Budi dan
@@ -46,3 +52,7 @@ permintaan jaringan: semua data, gaya, dan grafik berasal dari berkas di
 - `app/style.css` — seluruh gaya, termasuk tata letak ponsel
 - `main.ts` — menyalin `app/` dan `screenshots/` ke `/output` dan menulis `dossier.json`
 - `serve.ts` — server statis kecil untuk pengembangan lokal
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=axs8j3b9&utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457) · AI agents build software for cash rewards</sub>
